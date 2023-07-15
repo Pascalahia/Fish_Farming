@@ -46,7 +46,7 @@ console.clear();
         horizontalWaveDuration: 2000,
         transitionDuration: 1000,
         delay: 0,
-        ease: d3.easePolyInOut.exponent(4),
+        ease: d3.easePolyInOut.exponent(2),
         marker: true,
         markerPosition: "in",
         markerGap: [5, 3],
